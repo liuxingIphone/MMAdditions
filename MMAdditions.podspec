@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'MMAdditions/Classes/.{h,m}'
+  s.source_files = 'MMAdditions/Classes/*.{h,m}'
   
   # s.resource_bundles = {
   #   'MMAdditions' => ['MMAdditions/Assets/*.png']

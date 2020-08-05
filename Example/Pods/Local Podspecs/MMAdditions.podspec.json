@@ -2,7 +2,6 @@
   "name": "MMAdditions",
   "version": "0.1.0",
   "summary": "A UIKit & Fundtion categorys",
-  "description": "a UIKit & Fundtion categorys",
   "homepage": "https://github.com/liuxingIphone/MMAdditions",
   "license": {
     "type": "MIT",
@@ -18,5 +17,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "MMAdditions/Classes/*"
+  "source_files": "MMAdditions/Classes/*.{h,m}"
 }
