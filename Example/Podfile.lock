@@ -1,0 +1,16 @@
+PODS:
+  - MMAdditions (0.1.0)
+
+DEPENDENCIES:
+  - MMAdditions (from `../`)
+
+EXTERNAL SOURCES:
+  MMAdditions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MMAdditions: 0903924251aebd8479dc6dde9c6ab00d377583aa
+
+PODFILE CHECKSUM: e041a2f2520147192ab1a86d366d14248e3caf00
+
+COCOAPODS: 1.7.5

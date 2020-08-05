@@ -1,0 +1,6 @@
+framework module MMAdditions {
+  umbrella header "MMAdditions-umbrella.h"
+
+  export *
+  module * { export * }
+}
