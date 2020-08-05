@@ -25,6 +25,7 @@
 #import "UIColor+KIAdditions.h"
 #import "UIDevice+KIAdditions.h"
 #import "UIImage+KIAdditions.h"
+#import "UILabel+KIAdditions.h"
 #import "UIView+KIAdditions.h"
 
 FOUNDATION_EXPORT double MMAdditionsVersionNumber;
