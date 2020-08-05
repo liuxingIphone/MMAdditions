@@ -17,9 +17,6 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-  a UIKit & Fundtion categorys
-                       DESC
 
   s.homepage         = 'https://github.com/liuxingIphone/MMAdditions'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -30,7 +27,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'MMAdditions/Classes/*'
+  s.source_files = 'MMAdditions/Classes/.{h,m}'
   
   # s.resource_bundles = {
   #   'MMAdditions' => ['MMAdditions/Assets/*.png']

@@ -247,6 +247,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = liuxingIphone;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = 55TKKGAAJQ;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -494,6 +497,7 @@
 			baseConfigurationReference = 72C2602F681E45EF13B8FDDA /* Pods-MMAdditions_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 55TKKGAAJQ;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MMAdditions/MMAdditions-Prefix.pch";
 				INFOPLIST_FILE = "MMAdditions/MMAdditions-Info.plist";
@@ -510,6 +514,7 @@
 			baseConfigurationReference = 12A502BCECB2F271B78DF202 /* Pods-MMAdditions_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 55TKKGAAJQ;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MMAdditions/MMAdditions-Prefix.pch";
 				INFOPLIST_FILE = "MMAdditions/MMAdditions-Info.plist";
