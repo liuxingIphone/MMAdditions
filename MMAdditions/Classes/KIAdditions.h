@@ -27,11 +27,8 @@
 #import "UIView+KIAdditions.h"
 #import "UIButton+KIAdditions.h"
 #import "UILabel+KIAdditions.h"
-#import "UIView+Radius.h"
 
 
-#import "UIViewController+KIAdditions.h"
-#import "UINavigationController+KIAdditions.h"
 
 
 #endif /* KIAdditions_h */
